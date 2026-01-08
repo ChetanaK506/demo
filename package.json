@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "node ./node_modules/jest/bin/jest.js"
+    "test": "npx jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "description": "",
   "devDependencies": {
     "jest": "^30.2.0"
-  }
+  },
+  
+  "start": "node [app.js](http://_vscodecontentref_/2)"
+  
 }
